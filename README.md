@@ -32,7 +32,6 @@ The digital pipeline was validated against a manual dataset of **1,828 frames**.
 * **Computer Vision:** OpenCV (cv2)
 * **OCR:** EasyOCR
 * **Data Handling:** Pandas, NumPy
-* **Hardware:** Developed and tested on an ROG Strix G15 (RTX 3050Ti)
 
 ---
 
